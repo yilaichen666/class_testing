@@ -1,10 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Mar 31 10:29:45 2021
+print( 'hello world!' )
 
-@author: Jeff Levy
-"""
-
-print('Hello world!')
-
-print('No more math.')
+x=10
+print(x*2)
